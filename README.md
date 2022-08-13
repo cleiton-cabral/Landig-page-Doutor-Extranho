@@ -1,1 +1,1 @@
-# Landing-page-manipulando-imagens
+# Landing-page para cinema. Tema: (Doutor Extranho)
