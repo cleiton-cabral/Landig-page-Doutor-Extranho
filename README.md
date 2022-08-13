@@ -1,1 +1,1 @@
-# Landig-page-manipulando-imagens
+# Landing-page-manipulando-imagens
