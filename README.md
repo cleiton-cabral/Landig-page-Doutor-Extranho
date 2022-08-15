@@ -1,1 +1,1 @@
-# Landing-page para cinema. Tema: (Doutor Extranho)
+# Landing-page vendas de ingressos. Tema: (Doutor Extranho)
